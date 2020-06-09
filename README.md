@@ -1,7 +1,7 @@
 # DB
-SSH connection wrapper
+SSH connection wrapper. One step ssh (tcp) connection.
 
-one step ssh (tcp) connection
+The main purpose is to provide support for github.com/jaredwarren/db
 
 TODO: add support for password, right now ssh key is required
 
